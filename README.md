@@ -1,0 +1,2 @@
+# frankfurtoasishotel
+Static site: frankfurtoasishotel
